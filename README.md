@@ -14,33 +14,8 @@
 
 **Inferential Statistics:** A Logistic Regression Classification Model was utilized to evaluate the features that have the most positive and negative effects on the target success rate. These included: 
 
-Most Important Features for Positive Result
-                   
-  Features          Coefficient        
-  month_mar         0.308039
-  month_oct         0.294352
-  month_sep         0.242988
-  contact_cellular  0.242427
-  job_student       0.194474
-  month_dec         0.161941
-  job_retired       0.157015
-  month_jun         0.102523
-  age               0.101985
-  month_apr         0.091978
+<img width="456" alt="table" src="https://github.com/rfisher133/Bank-Marketing/assets/146397875/24a3e85f-a380-402a-a507-8266b974097e">
 
-Most Important Features Leading to Negative Result
-                     Coeffs
-Features                   
-job_services      -0.050784
-job_technician    -0.052974
-day_of_week_mon   -0.059676
-job_blue-collar   -0.085341
-month_nov         -0.130434
-month_jul         -0.163386
-month_aug         -0.167992
-month_may         -0.171014
-default           -0.219557
-contact_telephone -0.242427
 
 
 **Findings:** 
